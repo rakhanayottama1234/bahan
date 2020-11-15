@@ -1,0 +1,15 @@
+#!/bin/bash
+clear
+echo '	~ Daftar file kamu : ~	'
+echo '	----------------------	'
+ls
+echo '	----------------------	'
+echo ''
+echo ' Masukkan nama file yang ingin kamu share ke html'
+read -p "> " jawaban
+mv $jawaban /var/www/html
+echo ''
+echo '{File '$jawaban' berhasil dipindahkan ke html}'
+echo 'Tekan enter untuk kembali'
+read -p '' enter
+bash mytools

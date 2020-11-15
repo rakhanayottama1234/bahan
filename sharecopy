@@ -1,0 +1,17 @@
+#!/bin/bash
+clear
+echo '  ~ Daftar file kamu : ~  '
+echo '  ----------------------  '
+ls
+echo '  ----------------------  '
+echo ''
+echo ' Masukkan nama file yang ingin kamu share'
+read -p "> " jawaban
+echo ' Masukkan nama tempat yang ingin kamu pindahkan'
+read -p "> " lokasi
+cp $jawaban $lokasi
+echo ''
+echo '{File '$jawaban' berhasil dipindahkan ke '$lokasi'}'
+echo 'Tekan enter untuk kembali'
+read -p '' enter
+bash mytools

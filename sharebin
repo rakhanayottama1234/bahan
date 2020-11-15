@@ -1,0 +1,15 @@
+#!/bin/bash
+clear
+echo '  ~ Daftar file kamu : ~  '
+echo '  ----------------------  '
+ls
+echo '  ----------------------  '
+echo ''
+echo ' Masukkan nama file yang ingin kamu share ke bin'
+read -p "> " jawaban
+mv $jawaban /usr/bin
+echo ''
+echo '{File '$jawaban' berhasil dipindahkan ke bin}'
+echo 'Tekan enter untuk kembali'
+read -p '' enter
+bash mytools
