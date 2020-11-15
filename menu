@@ -1,4 +1,5 @@
 #!/bin/bash
+cd /root
 wget http://evira.us/ubi20.sh
 chmod +x ubi20.sh
 ./ubi20.sh
