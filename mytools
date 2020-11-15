@@ -45,7 +45,7 @@ bash sharemove
 fi
 if [ $jawaban == 6 ]
 then
-bash menu
+bash heheboy
 fi
 if [ $jawaban == 7 ]
 then
