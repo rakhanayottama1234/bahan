@@ -75,6 +75,7 @@ echo 'Jika sudah men-setting udpgw port'
 echo 'Enter untuk mengubah nama openvpn default'
 echo '#Hal ini untuk mencegah adanya hal buruk yang terjadi diserver kamu!!!'
 read -p '> ' enter
+clear
 cd /var/www/html
 echo 'Masukkan nama yang akan diubah dari client-tcp.ovpn'
 read -p '> ' nama1
