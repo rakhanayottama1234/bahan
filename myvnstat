@@ -5,4 +5,4 @@ systemctl restart vnstat
 cd /root
 systemctl restart vnstat
 echo 'vnstat berhasil dipasang'
-read -p 'enter enter enter'
+read -p 'enter enter enter' enter
