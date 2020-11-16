@@ -76,7 +76,6 @@ echo 'Enter untuk mengubah nama openvpn default'
 echo '#Hal ini untuk mencegah adanya hal buruk yang terjadi diserver kamu!!!'
 read -p '> ' enter
 cd /var/www/html
-ls
 echo 'Masukkan nama yang akan diubah dari client-tcp.ovpn'
 read -p '> ' nama1
 mv client-tcp.ovpn $nama1
