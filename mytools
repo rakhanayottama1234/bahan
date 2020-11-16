@@ -14,19 +14,6 @@ echo '  ----------------------  '
 echo ''
 echo ' Angka yang kamu pilih'
 read -p '> ' jawaban
-if [ $jawaban == 8 ]
-then
-clear
-exit
-fi
-echo 'Angka  yang kamu pilih adalah '$jawaban' (y/n)'
-read -p "> " yesorno
-if [ $yesorno == y ]
-then
-if [ $jawaban == 1 ]
-then
-bash myovpn
-fi
 if [ $jawaban == 2 ]
 then
 bash sharehtml
@@ -42,6 +29,19 @@ fi
 if [ $jawaban == 5 ]
 then
 bash sharemove
+fi
+if [ $jawaban == 8 ]
+then
+clear
+exit
+fi
+echo 'Angka  yang kamu pilih adalah '$jawaban' (y/n)'
+read -p "> " yesorno
+if [ $yesorno == y ]
+then
+if [ $jawaban == 1 ]
+then
+bash myovpn
 fi
 if [ $jawaban == 6 ]
 then
