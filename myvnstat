@@ -4,6 +4,7 @@ apt install vnstat
 systemctl restart vnstat
 cd /root
 systemctl restart vnstat
+clear
 echo 'vnstat berhasil dipasang'
 read -p 'enter enter enter' enter
 sudo systemctl restart vnstat
