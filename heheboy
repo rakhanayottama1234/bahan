@@ -80,10 +80,16 @@ cd /var/www/html
 echo 'Masukkan nama yang akan diubah dari client-tcp.ovpn'
 read -p '> ' nama1
 mv client-tcp.ovpn $nama1
+echo ''
 echo 'Masukkan nama yang akan diubah dari client-udp.ovpn'
 read -p '> ' nama2
 mv client-udp.ovpn $nama2
 clear
+echo '-----------------------------------
+echo 'Daftar File kamu di /var/www/html'
+ls
+echo '-----------------------------------'
+echo ''
 echo 'enter jika telah selesai...'
 read -p '> ' enter
 clear
