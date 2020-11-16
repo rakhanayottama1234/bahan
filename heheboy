@@ -85,7 +85,7 @@ echo 'Masukkan nama yang akan diubah dari client-udp.ovpn'
 read -p '> ' nama2
 mv client-udp.ovpn $nama2
 clear
-echo '-----------------------------------
+echo '-----------------------------------'
 echo 'Daftar File kamu di /var/www/html'
 ls
 echo '-----------------------------------'
