@@ -65,6 +65,7 @@ echo '!!! PERHATIAN TEKS DIATAS AKAN HILANG JIKA SUDAH MENG-ENTER !!!'
 read -p '> ' enter
 clear
 nano /etc/issue.net
+sudo systemctl restart dropbear
 clear
 echo 'Jika sudah men-setting banner ssh'
 echo 'Enter untuk men-setting udpgw port'
