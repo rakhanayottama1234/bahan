@@ -8,14 +8,13 @@ echo '3. sharebin'
 echo '4. sharecopy'
 echo '5. sharemove'
 echo '6. ssh,ssl,dropbear'
-echo '7. bannerssh'
-echo '8. vnstat'
-echo '9. exit'
+echo '7. vnstat'
+echo '8. exit'
 echo '  ----------------------  '
 echo ''
 echo ' Angka yang kamu pilih'
 read -p '> ' jawaban
-if [ $jawaban == 9 ]
+if [ $jawaban == 8 ]
 then
 clear
 exit
@@ -49,10 +48,6 @@ then
 bash heheboy
 fi
 if [ $jawaban == 7 ]
-then
-bash bannerssh
-fi
-if [ $jawaban == 8 ]
 then
 bash myvnstat
 fi
