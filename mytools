@@ -2,31 +2,31 @@
 clear
 echo '  ~ Daftar Menu : ~  '
 echo '  ----------------------  '
-echo '1. ovpn'
-echo '2. sharehtml'
-echo '3. sharebin'
-echo '4. sharecopy'
-echo '5. sharemove'
-echo '6. ssh,ssl,dropbear'
-echo '7. vnstat'
+echo '1. install ovpn'
+echo '2. install ssh,ssl,dropbear'
+echo '3. install vnstat'
+echo '4. sharehtml'
+echo '5. sharebin'
+echo '6. sharecopy'
+echo '7. sharemove'
 echo '8. exit'
 echo '  ----------------------  '
 echo ''
 echo ' Angka yang kamu pilih'
 read -p '> ' jawaban
-if [ $jawaban == 2 ]
+if [ $jawaban == 4 ]
 then
 bash sharehtml
 fi
-if [ $jawaban == 3 ]
+if [ $jawaban == 5 ]
 then
 bash sharebin
 fi
-if [ $jawaban == 4 ]
+if [ $jawaban == 6 ]
 then
 bash sharecopy
 fi
-if [ $jawaban == 5 ]
+if [ $jawaban == 7 ]
 then
 bash sharemove
 fi
@@ -43,11 +43,11 @@ if [ $jawaban == 1 ]
 then
 bash myovpn
 fi
-if [ $jawaban == 6 ]
+if [ $jawaban == 2 ]
 then
 bash heheboy
 fi
-if [ $jawaban == 7 ]
+if [ $jawaban == 3 ]
 then
 bash myvnstat
 fi
