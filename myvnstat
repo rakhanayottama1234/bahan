@@ -7,4 +7,5 @@ systemctl restart vnstat
 clear
 echo 'vnstat berhasil dipasang'
 read -p 'enter enter enter' enter
+clear
 sudo systemctl restart vnstat
