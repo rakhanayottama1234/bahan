@@ -76,7 +76,7 @@ echo 'Enter untuk men-setting reset time'
 read -p '> ' enter
 nano /etc/crontab
 clear
-echo 'Jika sudah men-setting udpgw port'
+echo 'Jika sudah men-setting reset time'
 echo 'Enter untuk mengubah nama openvpn default'
 echo '#Hal ini untuk mencegah adanya hal buruk yang terjadi diserver kamu!!!'
 read -p '> ' enter
