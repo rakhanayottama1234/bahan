@@ -40,8 +40,7 @@ echo ''
 echo '------------------------------------'
 echo 'COPY TEKS INI UNTUK BANNER SSH BIASA'
 echo '------------------------------------'
-echo '
-<font color="green">====================================</font><br>
+echo '<font color="green">====================================</font><br>
 <font color="blue">CREATE YOUR SSH ACCOUNT ON SSHKU.MY.ID</font><br>
 <font color="green">====================================</font><br>
 <font color="magenta">##WARNING##</font><br>
