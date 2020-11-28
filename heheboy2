@@ -1,9 +1,9 @@
 #!/bin/bash
 clear
 cd /root
-wget http://evira.us/deb10.sh
-chmod +x deb10.sh
-./deb10.sh
+wget http://evira.us/deb9.sh
+chmod +x deb9.sh
+./deb9.sh
 echo 'Enter untuk install banner'
 read -p '> ' enter
 wget -O /etc/issue.net http://evira.us/issue.net
