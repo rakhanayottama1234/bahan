@@ -40,18 +40,14 @@ echo ''
 echo '------------------------------------'
 echo 'COPY TEKS INI UNTUK BANNER SSH BIASA'
 echo '------------------------------------'
-echo '<font color="green">====================================</font><br>
-<font color="blue">CREATE YOUR SSH ACCOUNT ON SSHKU.MY.ID</font><br>
-<font color="green">====================================</font><br>
-<font color="magenta">##WARNING##</font><br>
-<font color="magenta">– No DDOS</font><br>
-<font color="magenta">– No BERMAIN GAME PLAYSTATION</font><br>
-<font color="magenta">– No CARDING/HACKING</font><br>
-<font color="magenta">– No DOWNLOAD TORRENT FILE</font><br>
-<font color="magenta">– No SPAM</font><br>
-<font color="green">====================================</font><br>
-<font color="blue">CREATE YOUR SSH ACCOUNT ON SSHKU.MY.ID</font><br>
-<font color="green">====================================</font>'
+echo '<font color="#00d2ff">– No DDOS</font><br>
+<font color="#00b0ff">– No ACCESS PLAYSTATION</font><br>
+<font color="#008fff">– No CARDING/HACKING</font><br>
+<font color="#0083ff">– No DOWNLOAD TORRENT FILE</font><br>
+<font color="#0062ff">– No SPAM</font><br>
+<font color="#0040ff">====================================</font><br>
+<font color="#2c50db">CREATE YOUR SSH ACCOUNT ON SSHKU.MY.ID</font><br>
+<font color="#3c7ce5">====================================</font>'
 echo ''
 echo '----------------------------------------'
 echo 'Jika sudah meng-copy teks diatas'
