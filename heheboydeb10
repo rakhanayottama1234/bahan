@@ -50,11 +50,10 @@ echo '<font color="#00d2ff">– No DDOS</font><br>
 <font color="#3c7ce5">====================================</font>'
 echo ''
 echo '----------------------------------------'
-echo 'Jika sudah meng-copy teks diatas'
-echo 'Enter untuk men-setting banner ssh'
 echo '!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!'
 echo '!!! PERHATIAN TEKS DIATAS AKAN HILANG JIKA SUDAH MENG-ENTER !!!'
 echo '!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!'
+echo 'Enter untuk men-setting banner ssh'
 echo ''
 read -p '> ' enter
 clear
