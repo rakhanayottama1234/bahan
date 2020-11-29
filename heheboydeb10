@@ -92,4 +92,93 @@ echo ''
 echo 'enter jika telah selesai...'
 read -p '> ' enter
 clear
+echo '# AutoScript berhasil dipasang'
+echo '# Banner berhasil dipasang'
+echo '# Udpgw Port berhasil dipasang'
+echo '# Reset Time berhasil dipasang'
+echo '# Change name ovpn berhasil dipasang'
+echo ''
+echo 'Tunggu 10 detik'
+sleep 1s
+clear
+echo '# AutoScript berhasil dipasang'
+echo '# Banner berhasil dipasang'
+echo '# Udpgw Port berhasil dipasang'
+echo '# Reset Time berhasil dipasang'
+echo '# Change name ovpn berhasil dipasang'
+echo ''
+echo 'Tunggu 9 detik'
+sleep 1s
+clear
+echo '# AutoScript berhasil dipasang'
+echo '# Banner berhasil dipasang'
+echo '# Udpgw Port berhasil dipasang'
+echo '# Reset Time berhasil dipasang'
+echo '# Change name ovpn berhasil dipasang'
+echo ''
+echo 'Tunggu 8 detik'
+sleep 1s
+clear
+echo '# AutoScript berhasil dipasang'
+echo '# Banner berhasil dipasang'
+echo '# Udpgw Port berhasil dipasang'
+echo '# Reset Time berhasil dipasang'
+echo '# Change name ovpn berhasil dipasang'
+echo ''
+echo 'Tunggu 7 detik'
+sleep 1s
+clear
+echo '# AutoScript berhasil dipasang'
+echo '# Banner berhasil dipasang'
+echo '# Udpgw Port berhasil dipasang'
+echo '# Reset Time berhasil dipasang'
+echo '# Change name ovpn berhasil dipasang'
+echo ''
+echo 'Tunggu 6 detik'
+sleep 1s
+clear
+echo '# AutoScript berhasil dipasang'
+echo '# Banner berhasil dipasang'
+echo '# Udpgw Port berhasil dipasang'
+echo '# Reset Time berhasil dipasang'
+echo '# Change name ovpn berhasil dipasang'
+echo ''
+echo 'Tunggu 5 detik'
+sleep 1s
+clear
+echo '# AutoScript berhasil dipasang'
+echo '# Banner berhasil dipasang'
+echo '# Udpgw Port berhasil dipasang'
+echo '# Reset Time berhasil dipasang'
+echo '# Change name ovpn berhasil dipasang'
+echo ''
+echo 'Tunggu 4 detik'
+sleep 1s
+clear
+echo '# AutoScript berhasil dipasang'
+echo '# Banner berhasil dipasang'
+echo '# Udpgw Port berhasil dipasang'
+echo '# Reset Time berhasil dipasang'
+echo '# Change name ovpn berhasil dipasang'
+echo ''
+echo 'Tunggu 3 detik'
+sleep 1s
+clear
+echo '# AutoScript berhasil dipasang'
+echo '# Banner berhasil dipasang'
+echo '# Udpgw Port berhasil dipasang'
+echo '# Reset Time berhasil dipasang'
+echo '# Change name ovpn berhasil dipasang'
+echo ''
+echo 'Tunggu 2 detik'
+sleep 1s
+clear
+echo '# AutoScript berhasil dipasang'
+echo '# Banner berhasil dipasang'
+echo '# Udpgw Port berhasil dipasang'
+echo '# Reset Time berhasil dipasang'
+echo '# Change name ovpn berhasil dipasang'
+echo ''
+echo 'Tunggu 1 detik'
+sleep 1s
 cd /root
