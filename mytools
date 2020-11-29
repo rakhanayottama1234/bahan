@@ -1,18 +1,18 @@
 #!/bin/bash
 clear
 echo '  ~ Daftar Menu : ~  '
-echo '  ----------------------  '
-echo '1. install ovpn'
-echo '2. install ssh,ssl,dropbear'
-echo '3. install vnstat'
-echo '4. sharehtml'
-echo '5. sharebin'
-echo '6. sharecopy'
-echo '7. sharemove'
-echo '8. exit'
-echo '  ----------------------  '
+echo '-------------------------------'
+echo '| 1. install ovpn             |'
+echo '| 2. install ssh,ssl,dropbear |'
+echo '| 3. install vnstat           |'
+echo '| 4. sharehtml                |'
+echo '| 5. sharebin                 |'
+echo '| 6. sharecopy                |'
+echo '| 7. sharemove                |'
+echo '| 8. exit                     |'
+echo '-------------------------------'
 echo ''
-echo ' Angka yang kamu pilih'
+echo 'Angka yang kamu pilih'
 read -p '> ' jawaban
 if [ $jawaban == 4 ]
 then
