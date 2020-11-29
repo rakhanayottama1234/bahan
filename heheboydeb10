@@ -181,4 +181,5 @@ echo '# Change name ovpn berhasil dipasang'
 echo ''
 echo 'Tunggu 1 detik'
 sleep 1s
+clear
 cd /root
